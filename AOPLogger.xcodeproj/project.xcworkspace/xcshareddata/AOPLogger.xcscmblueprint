@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2e254b4c-ea75-11e5-90fe-f12572fa1d0f++505",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "2e254b4c-ea75-11e5-90fe-f12572fa1d0f++505" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2e254b4c-ea75-11e5-90fe-f12572fa1d0f++505" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4439ED8F-CEF4-4AD0-94C3-269E2A50527F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2e254b4c-ea75-11e5-90fe-f12572fa1d0f++505" : "AOPLogger\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AOPLogger",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AOPLogger.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/tc-svn.tencent.com\/components\/AOPLogger_proj",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2e254b4c-ea75-11e5-90fe-f12572fa1d0f++505"
+    }
+  ]
+}
